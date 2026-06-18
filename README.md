@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cama-vacia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Cama vacía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cama-vacia/) |
+| **Get License** | [Get License For Cama vacía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cama-vacia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> La noche cae en la ciudad y tú no estás aquí, mi nena
+> Dejaste la cama vacía y esta casa es una condena
+> Yo sigo dando vueltas, buscándote en la oscuridad
+> Dime si esta noche al fin te vas a dejar llevar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
