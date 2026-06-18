@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cama vacía
+
+This log tracks the cryptographic history and versioning for the song **Cama vacía** (cama-vacia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T06:28:42.919669 | `v1` | `8d02ad0d52ff3c1f96162c38ed12eb33b2e89b0fce7aba145963ea63a15a17f9` | `2f498e25da54785c740b52d97bd78348a6afa068842ccd3fe7ee9d396ae5c784` | `2026-06-18_cama-vacia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

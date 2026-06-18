@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cama-vacia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Cama vacía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cama-vacia/) |
+| **Get License** | [Music Rights & Licensing for Cama vacía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cama-vacia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8d02ad0d52ff3c1f96162c38ed12eb33b2e89b0fce7aba145963ea63a15a17f9` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
